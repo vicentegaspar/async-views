@@ -1,1 +1,1 @@
-# my django website
+# django async e sync views test
